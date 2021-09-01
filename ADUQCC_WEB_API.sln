@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADUQCC_WEB_API", "ADUQCC_WEB_API\ADUQCC_WEB_API.csproj", "{3B64F6F3-264E-43EC-B0AB-BA1D6DB12523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B64F6F3-264E-43EC-B0AB-BA1D6DB12523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B64F6F3-264E-43EC-B0AB-BA1D6DB12523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B64F6F3-264E-43EC-B0AB-BA1D6DB12523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B64F6F3-264E-43EC-B0AB-BA1D6DB12523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DD2385F-B495-4107-95F3-6A0288988185}
+	EndGlobalSection
+EndGlobal
